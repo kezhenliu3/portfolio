@@ -77,11 +77,11 @@
   <img src="assets/preview-colorectal-p1.png" width="280" alt="结直肠癌报告封面">
   <img src="assets/preview-colorectal-toc.png" width="280" alt="结直肠癌报告目录">
   <br>
-  <img src="assets/preview-context-p1.png" width="280" alt="结直肠癌报告多模态表格部分展示页">
-  <img src="assets/preview-context-p2.png" width="280" alt="结直肠癌报告多模态图片部分展示页">
+  <img src="assets/preview-context-p1(new).png" width="280" alt="结直肠癌报告多模态表格部分展示页">
+  <img src="assets/preview-context-p2(new).png" width="280" alt="结直肠癌报告多模态图片部分展示页">
   <br>
-  <img src="assets/preview-context-p3.png" width="280" alt="结直肠癌报告参考文献引用开始展示页">
-  <img src="assets/preview-context-p4.png" width="280" alt="结直肠癌报告参考文献引用结束展示页">
+  <img src="assets/preview-context-p3(new).png" width="280" alt="结直肠癌报告参考文献引用开始展示页">
+  <img src="assets/preview-context-p4(new).png" width="280" alt="结直肠癌报告参考文献引用结束展示页">
 </div>
 
 | 报告 | 链接 | 看什么 |
