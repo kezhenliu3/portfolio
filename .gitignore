@@ -1,0 +1,24 @@
+# secrets
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+
+# runtime artifacts — safety net against accidental copies from internal repos
+logs/
+.cache/
+__pycache__/
+*.log
+e2e*/
+run_report*.jsonl
+
+# temp verification outputs
+*.tmp
+check_output/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
