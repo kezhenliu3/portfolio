@@ -17,6 +17,8 @@ Two generations of an offline RAG system powering an anti-aging product line's r
 
 The v1→v2 arc is the story: from "it runs" to "every claim about the system's quality is backed by a number, and every number has a pre-registered definition."
 
+The online counterpart — the streaming NLU→DM→NLG orchestration this pipeline feeds — is documented in [Report Interpretation Agent](../report-interpretation-agent/).
+
 ## Why this matters
 
 RAG is deceptively easy to demo and deceptively hard to run in production. The offline side (documents → chunks → index → evaluation) hides three classes of failure that a green demo never surfaces:
