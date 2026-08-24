@@ -12,6 +12,7 @@
 |---|---|---|---|
 | [AI 制药调研与立项平台](projects/ai-pharma-research/README_CN.md) | 肿瘤适应症/靶点调研与立项评分的三阶段平台 | 配置驱动多智能体深度调研 · 引用完整性工程 · fail-closed 校验 · 多裁判合议评分 | 已投产 |
 | [RAG 离线系统](projects/rag-offline-pipeline/README_CN.md) | 抗衰产品报告解读 agent 的 RAG 离线底座（两期） | 三级降级切分 · 三阶段测评集构建 · 预注册消融驱动检索调优 · 分难度生产基线 · 12/12 指标达标 | 已投产 |
+| [在线报告解读智能体](projects/report-interpretation-agent/README_CN.md) | 抗衰产品线医学报告解读对话智能体（在线服务编排），已上线微信小程序「九上阿」 | 混合 NLU 规则短路 · 多源可溯源检索 · 配置驱动多产品扩展 · 规则→Agent 演进 · 全栈降级链 | 已投产 |
 
 *后续会持续新增项目。*
 
