@@ -1,6 +1,6 @@
 # Sample Outputs — Desensitization Statement
 
-The RAG offline pipeline generated the samples published in this directory. Unlike a report-style project, this system's outputs are **evaluation metrics and document chunks**, so the published "samples" are: [eval-numbers.md](eval-numbers.md) (production baseline numbers) and [chunk-examples.md](chunk-examples.md) (two chunk structure excerpts).
+The RAG offline pipeline generated the samples published in this directory. Unlike a report-style project, this system's outputs are **evaluation metrics and document chunks**, so the published "samples" are: [eval-numbers.md](eval-numbers.md) (production baseline numbers) and [chunk-examples.md](chunk-examples.md) (two chunk structure excerpts). [中文版](README_CN.md)
 
 ## Desensitization statement
 

@@ -105,7 +105,7 @@ RAG 项目的测评集最容易"作弊"（照着自己会做的题出）。这�
 
 ## 脱敏样本
 
-本系统产出是评测指标与文档切块，已发布为 [评测数字表](samples/eval-numbers.md) 与 [chunk 结构示例](samples/chunk-examples.md)。详见 [脱敏声明](samples/README.md)：数字仅为系统指标；chunk 摘录仅为已发表论文的短片段；不公开源码、题目、答案与任何内部材料。
+本系统产出是评测指标与文档切块，已发布为 [评测数字表](samples/eval-numbers_CN.md) 与 [chunk 结构示例](samples/chunk-examples_CN.md)（英文版：[eval-numbers](samples/eval-numbers.md) / [chunk-examples](samples/chunk-examples.md)）。详见 [脱敏声明](samples/README_CN.md)：数字仅为系统指标；chunk 摘录仅为已发表论文的短片段；不公开源码、题目、答案与任何内部材料。
 
 ## 技术栈
 

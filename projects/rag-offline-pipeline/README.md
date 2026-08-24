@@ -173,7 +173,7 @@ Python · RAGAS · Milvus + pymilvus · MinerU · Langfuse · jieba / nltk · vL
 
 ## Sanitized samples
 
-This system's outputs are metrics and chunks, not reports — published as [evaluation numbers](samples/eval-numbers.md) and [chunk structure examples](samples/chunk-examples.md). See the [desensitization statement](samples/README.md): numbers are system metrics only; chunk excerpts are short fragments from published academic papers; no source code, queries, answers, or internal materials are published.
+This system's outputs are metrics and chunks, not reports — published as [evaluation numbers](samples/eval-numbers.md) and [chunk structure examples](samples/chunk-examples.md) ([中文版](samples/eval-numbers_CN.md) / [中文版](samples/chunk-examples_CN.md)). See the [desensitization statement](samples/README.md) ([中文版](samples/README_CN.md)): numbers are system metrics only; chunk excerpts are short fragments from published academic papers; no source code, queries, answers, or internal materials are published.
 
 ## Contact
 
