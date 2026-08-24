@@ -11,6 +11,7 @@
 | Project | What it is | Highlights | Status |
 |---|---|---|---|
 | [AI Pharma Research Platform](projects/ai-pharma-research/) | Three-phase platform for oncology indication/target research & project-initiation scoring | Config-driven multi-agent deep research · citation-integrity engineering · fail-closed validation · multi-judge consensus scoring | In production use |
+| [RAG Offline Pipeline](projects/rag-offline-pipeline/) | Offline RAG backbone for anti-aging report-interpretation agents (two generations) | Three-tier chunking degradation · three-stage golden-dataset builder · pre-registered ablation-driven retrieval tuning · per-difficulty production baselines · 12/12 metric gates | In production use |
 
 *More projects will be added over time.*
 
