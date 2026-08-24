@@ -56,4 +56,4 @@ From the final baseline replay after the schema evolution — same frozen golden
 
 Threshold-setting rule: cp(v2) gate = measured mean − 1σ (σ = batch noise tolerance ±1.5pp). Historical rounds are frozen, never retroactively re-graded. IR gates diagnose; RAGAS gates decide production admission.
 
-*Notes: cp(v1) is the stock RAGAS context_precision judge; cp(v2) is the partial-support-aware adaptation (see project README). Numbers are system metrics only — no query or answer content is published.*
+*Notes: cp(v1) is the stock RAGAS context_precision judge; cp(v2) is the partial-support-aware adaptation (see project README). Numbers are system metrics only — no query or answer content is published. Framework sources: see the References section of the [project README](../README.md).*

@@ -118,6 +118,22 @@ Python · RAGAS · Milvus + pymilvus · MinerU · Langfuse · jieba / nltk · vL
 - 剩余 15/286 检索 miss：14 条是英文 chunk 精排问题（非召回）——精排专项
 - 宽池 rerank token 降本
 
+## 参考文献
+
+本项目的测评集构建与评测指标基于二开的 RAGAS 框架，主要来源：
+
+#### 1. 问题演化机制的核心理论源头（Evol-Instruct）
+
+> Xu, C., Sun, Q., Zheng, K., Geng, X., Zhao, P., Feng, J., Tao, C., & Jiang, D. (2024). WizardLM: Empowering Large Language Models to Follow Complex Instructions. In *International Conference on Learning Representations (ICLR 2024)*. [https://arxiv.org/abs/2304.12244](https://arxiv.org/abs/2304.12244)
+
+#### 2. 评测框架与指标体系（RAGAS）
+
+> Es, S., James, J., Espinosa Anke, L., & Schockaert, S. (2024). RAGAS: Automated Evaluation of Retrieval Augmented Generation. In *Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024): System Demonstrations* (pp. 150–155). Association for Computational Linguistics. [https://aclanthology.org/2024.eacl-demo.16/](https://aclanthology.org/2024.eacl-demo.16/)
+
+#### 3. 内存知识图谱与工程落地（Ragas Testset Generator 技术规范）
+
+> Exploding Gradients. (2024). *Testset Generation for RAG: Knowledge Graph based Approach*. Ragas Documentation. [https://docs.ragas.io/en/stable/concepts/test_data_generation/rag/](https://docs.ragas.io/en/stable/concepts/test_data_generation/rag/)
+
 ## 联系
 
 本项目为私有内部平台，代码不公开。合作或详情见仓库根 [README](../../README.md)。

@@ -175,6 +175,22 @@ Python · RAGAS · Milvus + pymilvus · MinerU · Langfuse · jieba / nltk · vL
 
 This system's outputs are metrics and chunks, not reports — published as [evaluation numbers](samples/eval-numbers.md) and [chunk structure examples](samples/chunk-examples.md) ([中文版](samples/eval-numbers_CN.md) / [中文版](samples/chunk-examples_CN.md)). See the [desensitization statement](samples/README.md) ([中文版](samples/README_CN.md)): numbers are system metrics only; chunk excerpts are short fragments from published academic papers; no source code, queries, answers, or internal materials are published.
 
+## References
+
+The golden-dataset builder and evaluation metrics in this project are built on a forked RAGAS framework. Primary sources:
+
+#### 1. Core theory of the query-evolution mechanism (Evol-Instruct)
+
+> Xu, C., Sun, Q., Zheng, K., Geng, X., Zhao, P., Feng, J., Tao, C., & Jiang, D. (2024). WizardLM: Empowering Large Language Models to Follow Complex Instructions. In *International Conference on Learning Representations (ICLR 2024)*. [https://arxiv.org/abs/2304.12244](https://arxiv.org/abs/2304.12244)
+
+#### 2. Evaluation framework and metric system (RAGAS)
+
+> Es, S., James, J., Espinosa Anke, L., & Schockaert, S. (2024). RAGAS: Automated Evaluation of Retrieval Augmented Generation. In *Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024): System Demonstrations* (pp. 150–155). Association for Computational Linguistics. [https://aclanthology.org/2024.eacl-demo.16/](https://aclanthology.org/2024.eacl-demo.16/)
+
+#### 3. Knowledge-graph-based testset generation (Ragas Testset Generator technical specification)
+
+> Exploding Gradients. (2024). *Testset Generation for RAG: Knowledge Graph based Approach*. Ragas Documentation. [https://docs.ragas.io/en/stable/concepts/test_data_generation/rag/](https://docs.ragas.io/en/stable/concepts/test_data_generation/rag/)
+
 ## Contact
 
 For details or collaboration, see the repository root [README](../../README.md).

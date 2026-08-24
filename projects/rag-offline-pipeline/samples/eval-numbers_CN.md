@@ -56,4 +56,4 @@
 
 门槛设定规则：cp(v2) 门槛 = 实测均值 − 1σ（σ 取批间噪声容差 ±1.5pp）。历史轮次一律冻结，绝不回溯改分。IR 门槛负责诊断，RAGAS 门槛决定生产准入。
 
-*注：cp(v1) 为 RAGAS 原生 context_precision 裁判；cp(v2) 为部分支撑感知改造版（见项目 README）。数字仅为系统指标——不公开任何题目或答案内容。*
+*注：cp(v1) 为 RAGAS 原生 context_precision 裁判；cp(v2) 为部分支撑感知改造版（见项目 README）。数字仅为系统指标——不公开任何题目或答案内容。框架来源见 [项目 README](../README_CN.md) 参考文献章节。*
