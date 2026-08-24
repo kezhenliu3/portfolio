@@ -28,4 +28,4 @@ Real chunks from the production corpus (public literature only), showing how the
 
 **What this shows:** bilingual corpora are chunked with the same heading-tree scheme; language detection (Chinese-character ratio) and jieba/nltk tokenization keep Chinese and English chunks on separate, correctly-tokenized paths (for BM25) while sharing one retrieval pipeline.
 
-*Both excerpts are from published academic papers. Only short fragments are shown; no internal documents or reports are part of the published corpus samples.*
+*Both excerpts are from publicly released academic papers.. Only short fragments are shown; no internal documents or reports are part of the published corpus samples.*
